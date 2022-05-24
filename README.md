@@ -1,2 +1,2 @@
 # Contact-Card
-Created with CodeSandbox
+Static Contact Card created with React
